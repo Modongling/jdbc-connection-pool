@@ -1,6 +1,5 @@
 package com.my.stydy.simple.datapool;
 
-import com.mchange.v2.c3p0.PooledDataSource;
 import org.apache.commons.dbcp2.BasicDataSource;
 
 import javax.sql.DataSource;
